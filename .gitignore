@@ -3,3 +3,10 @@ media/
 
 # Ignore static folder (for compiled static files or collected files)
 static/
+
+# Ignore SQLite database
+db.sqlite3
+
+# Ignore other database files (optional)
+*.db
+*.sql
