@@ -1,0 +1,5 @@
+# Ignore media folder (for user-uploaded files)
+media/
+
+# Ignore static folder (for compiled static files or collected files)
+static/
